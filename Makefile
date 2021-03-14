@@ -1,5 +1,3 @@
-#    Mateusz Kmita, 300626
-
 CC = gcc -g
 CFLAGS = -Og -Wall -Werror -std=gnu99
 
